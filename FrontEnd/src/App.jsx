@@ -1,5 +1,5 @@
-import Left from "./home/leftSlide/Left";
-import Right from "./home/RightSlide/Right";
+import Left from "./home/Leftpart/Left";
+import Right from "./home/Rightpart/Right";
 import Register from "./components/Register";
 import Login from "./components/Login";
 import { Toaster } from "react-hot-toast";
